@@ -1,4 +1,4 @@
-## entgo-graphql-todo
+# entgo-graphql-todo
 
 - entgo.io
 - gqlgen.com
